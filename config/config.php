@@ -52,9 +52,9 @@ $config['timeZone'] =  "Asia/Kolkata";
 | Database to Store User Data
 |
 */
-$config['db']['hostname'] =  "localhost";
-$config['db']['username'] =  "root";
-$config['db']['password'] =  "";
+$config['db']['hostname'] =  "sql3648072";
+$config['db']['username'] =  "sql3648072";
+$config['db']['password'] =  "iewR3KyRhG";
 $config['db']['database'] =  "checkerbot";
 
 /*
